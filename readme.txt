@@ -7,3 +7,4 @@ Practice of branch.
 Creating a new branch is quick and simple.
 add merge.
 fast forward.
+add feature11 fast forward 11.
