@@ -9,3 +9,4 @@ add merge.
 fast forward.
 add feature11 fast forward 11.
 add feature11 no-ff.
+stash1
