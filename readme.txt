@@ -6,3 +6,4 @@ Creating a new branch is quick.
 Practice of branch.
 Creating a new branch is quick and simple.
 add merge.
+fast forward.
