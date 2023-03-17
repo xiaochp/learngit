@@ -3,4 +3,5 @@ Git is free software under the GPL.
 Git has a mutable index called stage.
 Git stage change 1st.
 Git tracks changes.
-    --xiaochp
+Creating a new branch is quick.
+--xiaochp
