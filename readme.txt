@@ -7,4 +7,5 @@ Creating a new branch is quick AND simple.
 no ff
 with ff
 with ff2
+with ff3
 --xiaochp
