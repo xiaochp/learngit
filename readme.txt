@@ -1,3 +1,5 @@
 Git is a distrabution version control system.
 Git is free software under the GPL.
---xiaochp
+Git has a mutable index called stage.
+
+    --xiaochp
