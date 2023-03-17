@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 Git stage change 1st.
 Git tracks changes.
 Creating a new branch is quick AND simple.
+no ff
 --xiaochp
