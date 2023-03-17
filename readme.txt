@@ -5,4 +5,6 @@ Git stage change 1st.
 Git tracks changes.
 Creating a new branch is quick AND simple.
 no ff
+with ff
+with ff2
 --xiaochp
